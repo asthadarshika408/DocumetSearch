@@ -1,0 +1,20 @@
+/* Detail Styles */
+.results-info {
+    margin: 1em;
+}
+
+.results {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+.results .result {
+    width: 10rem;
+    max-height: 18rem;
+}
